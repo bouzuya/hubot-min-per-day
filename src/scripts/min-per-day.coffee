@@ -1,5 +1,5 @@
 # Description
-#   A Hubot script that average time "15 min/d"
+#   A Hubot script that returns average time "15 min/d"
 #
 # Configuration:
 #   None

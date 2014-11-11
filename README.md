@@ -1,6 +1,6 @@
 # hubot-min-per-day
 
-A Hubot script that average time "15 min/d"
+A Hubot script that returns average time "15 min/d"
 
 ## Installation
 
